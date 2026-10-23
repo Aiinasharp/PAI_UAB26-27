@@ -37,3 +37,12 @@
 // let e = true; // variable de tipus boolean
 // console.log(a);
 
+// let numero = prompt("introdueix un número: "); // mostra un missatge a l'usuari i espera que introdueixi un valor
+// console.log(numero*2); // mostra el valor introduït per l'usuari multiplicat per 2
+// console.log(numero*3); // mostra el valor introduït per l'usuari multiplicat per 3
+// console.log(numero**2); // mostra el valor introduït per l'usuari elevat al quadrat
+
+let costat1 = 20 ;
+let costat2 = 80 ;
+let area = costat1 * costat2 ;
+console.log( area );
